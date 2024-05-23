@@ -1,10 +1,6 @@
 <div align="center">
-  <img src="https://helloapi.dev/images/github_title.svg" />
+  <img src="https://helloapi.dev/images/github3.svg" />
 
-  <br><br>
-  <div style="margin: 48px 0">
-    <img width="15%" src="https://helloapi.co/images/logo.svg" />
-  </div>
   <br><br>
 
   [![Hello API](https://img.shields.io/badge/Hello_API-https%3A%2F%2Fhelloapi.co-115EE9)](https://helloapi.co)
